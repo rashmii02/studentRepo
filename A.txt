@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 void m(){
  system.out.println("You are in developer2");
+=======
+Welcome to GitHub session!
+void m(){
+ system.out.println("Welcome developer1");
+>>>>>>> 0468a0acb4568aac9028f68254b797696d0c2e67
 }
