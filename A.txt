@@ -1,4 +1,3 @@
-Welcome to GitHub session!
 void m(){
  system.out.println("You are in developer2");
 }
